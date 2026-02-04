@@ -1,0 +1,22 @@
+{
+  "name": "get",
+  "version": "2.0.1",
+  "description": "auto deploy on render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jivan-Patel/sec-project.git"
+  },
+  "author": "Jivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jivan-Patel/sec-project/issues"
+  },
+  "homepage": "https://github.com/Jivan-Patel/sec-project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
