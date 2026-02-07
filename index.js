@@ -4,7 +4,10 @@ const app = express();
 
 const users = [
     { id: 1, name: "Arjun", role: "student" },
-    { id: 2, name: "Priyesha", role: "mentor" }
+    { id: 2, name: "Priyesha", role: "mentor" },
+    { id: 3, name: "Rahul", role: "teacher" },
+    { id: 4, name: "Rohan", role: "student" },
+    { id: 5, name: "Sunil", role: "mentor" },
 ];
 
 app.get("/", (req, res) => {
